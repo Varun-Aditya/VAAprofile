@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="./style.css">
+	<link href="https://fonts.googleapis.com/css?family=Audiowide|Damion" rel="stylesheet">
+
+	<title>          VAA's website</title>
+	<style>
+body {
+    background: yellow
+
+}
+	    
+	    .center {
+	        text-align: center;
+	        font-size: 70px;
+	        color:red;
+	        font-family: 'Damion', cursive;
+	        
+	    }.photo {
+	          margin:auto;
+	          display: block;
+	      }
+	    
+	    img {
+	        width:50%;
+	    }
+	      
+	      
+	        
+	        
+	</style>
+	
+	
+	
+</head>
+
+<body>
+<h1 class = 'center'>VAA's website</h1>
+<div class = 'grid'>
+	<img class = "photo" src="http://www.dyned.co.th/wp-content/uploads/2017/06/A-Big-Step-Forward-for-DynEd%E2%80%99s-Aviation-English-Training-Programs-in-Vietnam.gif">
+
+	<div id = 'container'>
+		<h2 class = 'yellow'>Name: Varun-Aditya</h2>
+		<h2>Age: 7 years old</h2>
+		<h2>Hobbies</h2>
+			<li>Singing</li>
+			<li>Painting</li>
+			<li>Coding</li>
+		<h2>Contact me</h2>
+		<h3>Email: adityavarun46@gmail.com</h3>
+	</div>
+</div>
+</body>
+</html>
